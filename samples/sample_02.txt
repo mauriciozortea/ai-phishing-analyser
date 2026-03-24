@@ -1,0 +1,25 @@
+From: secure-alerts@barclays-verify.com
+To: m.thompson@northbridgefinancial.co.uk
+Subject: Action Required: Suspicious transaction detected on your account
+Date: Tue, 19 Mar 2026 11:32:00 +0000
+
+Dear Barclays Customer,
+
+We have detected a suspicious transaction of £3,847.00 attempted on your 
+account from an unrecognised device.
+
+Transaction details:
+- Amount: £3,847.00
+- Merchant: CRYPTO EXCHANGE LTD
+- Location: Amsterdam, Netherlands
+- Time: 10:14 GMT
+
+To dispute this transaction and secure your account, click below immediately:
+
+DISPUTE TRANSACTION: http://barclays-secure-verify.net/dispute/login
+
+Failure to respond within 2 hours will result in the transaction being 
+processed and funds permanently transferred.
+
+Barclays Security Team
+Barclays Bank UK PLC, 1 Churchill Place, London E14 5HP

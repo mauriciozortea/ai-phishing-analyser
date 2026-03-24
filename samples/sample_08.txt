@@ -1,0 +1,26 @@
+From: it-support@northbridgefinancial-helpdesk.com
+To: staff@northbridgefinancial.co.uk
+Subject: URGENT: Your password expires in 2 hours
+Date: Wed, 26 Mar 2026 07:45:00 +0000
+
+Dear NorthBridge Staff Member,
+
+Our systems have detected that your network password will expire in 
+2 hours. If your password expires, you will lose access to:
+
+- Email and Microsoft 365
+- Internal systems and shared drives
+- VPN and remote access
+
+To prevent disruption, update your password immediately:
+
+UPDATE PASSWORD NOW: http://northbridge-it-portal.net/password/reset
+
+Enter your current password to authenticate, then follow the prompts 
+to set a new one.
+
+If you have already updated your password today, please ignore this email.
+
+IT Support Team
+NorthBridge Financial Services
+Extension: 4400

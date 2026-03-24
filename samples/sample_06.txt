@@ -1,0 +1,25 @@
+From: delivery-notification@dhl-express-uk.net
+To: employee@northbridgefinancial.co.uk
+Subject: DHL: Your parcel could not be delivered — action required
+Date: Mon, 24 Mar 2026 10:15:00 +0000
+
+Dear Customer,
+
+We attempted to deliver your parcel (Tracking: JD014600008985076532) 
+today but were unable to complete the delivery.
+
+Reason: Incomplete delivery address
+
+To reschedule your delivery, a small redelivery fee of £2.99 is required.
+
+RESCHEDULE DELIVERY: http://dhl-redelivery-uk.com/pay/reschedule
+
+Payment must be made within 24 hours or your parcel will be returned 
+to the sender.
+
+Parcel details:
+- Weight: 1.4kg
+- Origin: Frankfurt, Germany
+- Attempts: 1 of 3
+
+DHL Express Customer Services

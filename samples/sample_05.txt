@@ -1,0 +1,22 @@
+From: notifications@linkedln-secure.com
+To: mauricio.zortea@northbridgefinancial.co.uk
+Subject: Your LinkedIn account has been restricted
+Date: Fri, 22 Mar 2026 14:20:00 +0000
+
+Dear LinkedIn Member,
+
+Your account has been temporarily restricted due to unusual activity 
+detected from IP address 103.45.67.89 (Bucharest, Romania).
+
+To restore full access to your account and prevent permanent suspension, 
+you must verify your identity within 12 hours.
+
+RESTORE MY ACCOUNT: http://linkedln-account-verify.com/restore/secure
+
+What happens if you don't verify:
+- Your profile will be hidden from recruiters
+- All your connections will be removed
+- Your Premium subscription will be cancelled without refund
+
+LinkedIn Trust & Safety Team
+LinkedIn Corporation, 1000 W Maude Ave, Sunnyvale, CA 94085
